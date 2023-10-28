@@ -1,0 +1,15 @@
+C:\Users\morte\Desktop\Projects\ImageByte\bin\Debug\net7.0\ImageByte.exe
+C:\Users\morte\Desktop\Projects\ImageByte\bin\Debug\net7.0\ImageByte.deps.json
+C:\Users\morte\Desktop\Projects\ImageByte\bin\Debug\net7.0\ImageByte.runtimeconfig.json
+C:\Users\morte\Desktop\Projects\ImageByte\bin\Debug\net7.0\ImageByte.dll
+C:\Users\morte\Desktop\Projects\ImageByte\bin\Debug\net7.0\ImageByte.pdb
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.csproj.AssemblyReference.cache
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.AssemblyInfoInputs.cache
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.AssemblyInfo.cs
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.csproj.CoreCompileInputs.cache
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.dll
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\refint\ImageByte.dll
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.pdb
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ImageByte.genruntimeconfig.cache
+C:\Users\morte\Desktop\Projects\ImageByte\obj\Debug\net7.0\ref\ImageByte.dll
